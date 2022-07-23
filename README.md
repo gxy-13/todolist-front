@@ -1,5 +1,6 @@
 # bubble-frontend
 
+原作者：https://github.com/Q1mi
 This project is the frontend code base vue2.0 for [bubble](https://github.com/Q1mi/bubble).
 
 ## Project setup
